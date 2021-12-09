@@ -34,13 +34,10 @@ For getting verified certificate from us you have to do 2 things.
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
+<a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
+    <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
+    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
     <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   
   </div>
@@ -51,14 +48,12 @@ For getting verified certificate from us you have to do 2 things.
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
+     <a href="https://gdsc.community.dev/national-institute-of-technology-nit-kurukshetra" class="pics"><img src="pics/gdsc.png" height="36vh"></a>
+   <a href="https://www.linkedin.com/company/gdscnitkkr" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
+    <a href="https://www.twitter.com/gdscnitkkr" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
+    <a href="https://www.instagram.com/gdscnitkkr" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
+  <a href="" class="pics"><img src="pics/discord.svg" height="36vh"></a>
+  <a href="https://t.me/gdscnitkkr" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gdscnitkkr@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   </div>
 </p>

@@ -52,7 +52,7 @@ For getting verified certificate from us you have to do 2 things.
    <a href="https://www.linkedin.com/company/gdscnitkkr" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
     <a href="https://www.twitter.com/gdscnitkkr" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
     <a href="https://www.instagram.com/gdscnitkkr" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="" class="pics"><img src="pics/discord.svg" height="36vh"></a>
+  <a href="https://discord.gg/p2yPURkVHw" class="pics"><img src="pics/discord.svg" height="36vh"></a>
   <a href="https://t.me/gdscnitkkr" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gdscnitkkr@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   </div>

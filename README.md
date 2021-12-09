@@ -57,3 +57,6 @@ For getting verified certificate from us you have to do 2 things.
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=gdscnitkkr@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   </div>
 </p>
+
+
+*If you like this repo, show some love💖 by giving a star⭐ and forking this repo 📌.*
